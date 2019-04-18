@@ -1,4 +1,7 @@
 # project-merj-2019
+
+permalink: /index.php
+
 project-merj-2019 created by GitHub Classroom
 
 
