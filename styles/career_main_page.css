@@ -1,0 +1,46 @@
+/*html {
+  box-sizing:border-box;
+  font-size:16px;
+}
+*, *::before, *::after {
+  box-sizing:inherit;
+}
+body {
+  margin:0;
+  font:normal 1em/1.2 Georgia,"Times New Roman",Times,serif;
+}
+.page-wrapper {
+  max-width:1200px;
+  margin:0 auto; /*0 auto 0 auto*/
+/*
+}
+*/
+/*main*//*
+.job-position{
+    width: 200px;
+    height: 150px;
+    background-color: dodgerblue;
+    color: floralwhite;
+}
+
+.col-sm-4,.box{
+    background-color: dodgerblue;
+    color: white;
+}
+
+h1{
+ float: center;
+}
+
+*/
+
+#career_main{
+   background-color: silver; 
+   padding-top:15px;
+   padding-left:5px;
+ }
+
+
+h1{
+    text-align: center;
+}
